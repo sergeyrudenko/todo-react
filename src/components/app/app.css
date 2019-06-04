@@ -1,0 +1,11 @@
+.app-main {
+  width: 40%;
+  position: absolute;
+  left: 30%;
+  top: 10%;
+}
+
+.app-main .search-filter-bar {
+  display: flex;
+  margin-bottom: 5px;
+}
